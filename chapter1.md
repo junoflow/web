@@ -9,7 +9,7 @@
 - padding을 늘리면 content는 그대로이므로 박스가 넓어짐
 ### Border : 테두리선
 - border : 10px   solid                             #000
--         선굵기  선스타일(dotted, dashed, double)    색
+- 선굵기  선스타일(dotted, dashed, double)    색
 ### Margin : 다른 요소와의 간격
 - margin : 상하좌우 모든가격
 - margin-left(right, top, bottom)으로 해서 따로 설정 가능
