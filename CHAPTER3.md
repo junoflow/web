@@ -1,7 +1,7 @@
 # 170728 WEB 개발하기
-# 3 - 레이아웃 만들기 (1)
+## 3 - 레이아웃 만들기 (1)
 
-## head 부분
+### head 부분
 
 ```
   <!DOCTYPE html>
@@ -58,14 +58,14 @@
 
 ```
 
-### 주요 포인트
+#### 주요 포인트
 - ```<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />``` : 한글로 만들어진 웹페이지임을 알림
   - http-equiv : "웹브라우저에게 정보를 전달한다"
 - #wrap 을 가운데 정렬하는 방법에는 두 가지 방법이 있다
   - margin과 auto를 이용하는 방법
   - position:relative를 이용하는 방법
   
-## body 부분
+### body 부분
 
 ```
 <body>
@@ -90,7 +90,7 @@
 
 ```
 
-### 주요 포인트
+#### 주요 포인트
 - img에서 alt는 이미지 대신 쓸 수 있는 텍스트가 들어가야 한다.
 [참고사이트](http://html5ref.clearboth.org/doku.php?id=html5:attribute:alt_img)
 - clear처럼 반복적으로 사용되는 건 class로 선언하고, wrap처럼 한 번만 사용되는 건 id로 선언
